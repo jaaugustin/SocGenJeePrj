@@ -48,7 +48,6 @@
         <tr>
             <td><input type="submit" value="Details" name="action" /></td>
             <td><input type="submit" value="Supprimez" name="action" /> </td>
-            <td><input type="submit" value="Ajoutez" name="action" /> </td>
         </tr>
 
     </table>
